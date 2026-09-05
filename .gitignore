@@ -1,0 +1,11 @@
+data/raw/
+data/bronze/
+data/silver/
+data/gold/
+__pycache__/
+*.pyc
+.venv/
+venv/
+spark-warehouse/
+*.egg-info/
+.ipynb_checkpoints/
